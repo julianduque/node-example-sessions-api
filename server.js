@@ -3,10 +3,13 @@
 const fs = require('fs');
 const path = require('path');
 const express = require('express');
+const cors = require('cors');
 
 const app = express();
 const port = process.env.PORT || 3001;
 const sessions = fs.readFileSync(path.join(__dirname, 'sessions.json'), 'utf8');
+
+app.use(cors());
 
 app.get('/', (req, res) => {
   res.send('<h1>Hello Salesforce Devs from Express</h1>');
