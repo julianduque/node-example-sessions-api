@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "The Future of JavaScript",
+      "dateTime": "2020-12-07 10:00:00",
+      "room": "Keynote room",
+      "description": "Since its inception in 1995, JavaScript has become the most popular language of the web. With new additions to the ECMAScript standard there are no signs of slowing down on this. Gain insights in this spectacular keynote on what the future will hold.",
+      "speakers": [
+        {
+          "id": "1",
+          "name": "John Doe",
+          "bio": "Master of all things JavaScript. Cat herder. ECMAScript lover.",
+          "email": "john.doe@trailhead.com",
+          "pictureUrl": "https://developer.salesforce.com/files/js-dev/speaker-images/john_doe.jpg"
+        },
+        {
+          "id": "2",
+          "name": "Laetitia Arevik",
+          "bio": "Laetitia Arevik codes at night and during the day. Making the web accessible is her mission.",
+          "email": "laetitia.arevik@trailhead.com",
+          "pictureUrl": "https://developer.salesforce.com/files/js-dev/speaker-images/laetitia_arevik.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Introducing Web Components",
+      "dateTime": "2020-12-07 11:00:00",
+      "room": "Breakout room A",
+      "description": "With web components developers can embrace a true component based architecture, which utilizes core browser APIs. This makes them easily usable across any modern browser. Come and learn in this session what web components are all about, and how they can make your life easier.",
+      "speakers": [
+        {
+          "id": "3",
+          "name": "Meghan Gerald",
+          "bio": "Grown up with the web as a platform, Meghan's passion is bringing the latest enhancements of web development to the broader developer community.",
+          "email": "meghan.gerald@trailhead.com",
+          "pictureUrl": "https://developer.salesforce.com/files/js-dev/speaker-images/meghan_gerald.jpg"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Web Components Patterns and Best Practices",
+      "dateTime": "2020-12-07 11:00:00",
+      "room": "Breakout room B",
+      "description": "You started developing your first web components, and now what? Join this interactive session and learn lessons from the field on how to build first class web component implementations.",
+      "speakers": [
+        {
+          "id": "3",
+          "name": "Meghan Gerald",
+          "bio": "Grown up with the web as a platform, Meghan's passion is bringing the latest enhancements of web development to the broader developer community.",
+          "email": "meghan.gerald@trailhead.com",
+          "pictureUrl": "https://developer.salesforce.com/files/js-dev/speaker-images/meghan_gerald.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Ermenrich Nalani",
+          "bio": "Ermenrich codes for fun and profit. You can wake him up at 3am in the night, and he will code you away.",
+          "email": "ermenrich.nalani@trailhead.com",
+          "pictureUrl": "https://developer.salesforce.com/files/js-dev/speaker-images/ermenrich_nalani.jpg"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Advanced Web Components Workshop",
+      "dateTime": "2020-12-07 11:30:00",
+      "room": "Theater",
+      "description": "Fully embrace the standards that web components are build on. Shadow DOM, custom elements, HTML imports and more. There is a lot to learn, and all of that will be covered.",
+      "speakers": [
+        {
+          "id": "2",
+          "name": "Laetitia Arevik",
+          "bio": "Laetitia Arevik codes at night and during the day. Making the web accessible is her mission.",
+          "email": "laetitia.arevik@trailhead.com",
+          "pictureUrl": "https://developer.salesforce.com/files/js-dev/speaker-images/laetitia_arevik.jpg"
+        },
+        {
+          "id": "4",
+          "name": "Ermenrich Nalani",
+          "bio": "Ermenrich codes for fun and profit. You can wake him up at 3am in the night, and he will code you away.",
+          "email": "ermenrich.nalani@trailhead.com",
+          "pictureUrl": "https://developer.salesforce.com/files/js-dev/speaker-images/ermenrich_nalani.jpg"
+        }
+      ]
+    }
+  ]
+}

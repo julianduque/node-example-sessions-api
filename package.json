@@ -1,0 +1,18 @@
+{
+  "name": "sessions-api",
+  "version": "1.0.0",
+  "description": "A Web application with an API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "nodemon -w server.js"
+  },
+  "author": "Julian Duque",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
