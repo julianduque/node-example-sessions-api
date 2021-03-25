@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const fs = require('fs');
 const path = require('path');
@@ -21,4 +21,4 @@ app.get('/api/sessions', (req, res) => {
 
 app.listen(port, () => {
   console.log(`Express server running on http://localhost:${port}`);
-})
+});
